@@ -8,7 +8,14 @@ function updateSite(req,res){
     }
    
 }
+function home(req,res){
+
+    return res.json({mensagem:'home'})
+     
+   
+}
 
 module.exports={
-    updateSite
+    updateSite,
+    home
 }
