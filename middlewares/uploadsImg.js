@@ -12,6 +12,7 @@ module.exports=(multer({
             cb(null,`${time}-${file.originalname}`)
         }
     }),
+    
     fileFilter:(req,file,cb)=>{
 
         const extImg=['image/png','image/jpg','image/jpeg'].find(formatoAceito=> formatoAceito == file.mimetype);

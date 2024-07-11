@@ -9,6 +9,4 @@ Rota.get("/",home);
     
 Rota.post("/up", uploads.single('image'),updateSite);
 
-
-
 module.exports=Rota
