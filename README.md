@@ -2,7 +2,8 @@
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 
-<h1 align="center" style="font-weight: bold;">UPload de Imagem</h1>
+<h1 align="center" style="font-weight: bold; padding-bottom: 10px;">Upload de Imagem</h1>
+
 
 ![HTML5]
 ![CSS3]
@@ -15,9 +16,6 @@
 
 </p>
 
-<p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-</p>
 
 <h2 id="about">📌 About</h2>
 
